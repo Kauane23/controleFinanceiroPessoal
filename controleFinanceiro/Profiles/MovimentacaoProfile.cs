@@ -1,6 +1,6 @@
 ﻿namespace controleFinanceiro.Profiles
 {
-    public class FinanceiroProfile
+    public class MovimentacaoProfile
     {
     }
 }

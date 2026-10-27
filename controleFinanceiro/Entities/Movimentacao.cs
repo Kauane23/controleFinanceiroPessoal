@@ -1,6 +1,6 @@
 ﻿namespace controleFinanceiro.Entities
 {
-    public class Financeiro
+    public class Movimentacao
     {
     }
 }
