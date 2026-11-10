@@ -84,7 +84,7 @@
               "RelativeDocumentMoniker": "Profiles\\MovimentacaoProfile.cs",
               "ToolTip": "C:\\Users\\Nar4ZacianShine\\OneDrive\\Documents\\IF\\Gradua\u00E7\u00E3o\\5\u00BA Per\u00EDodo\\Programa\u00E7\u00E3o com Acesso a BD\\trabalho\\controleFinanceiroPessoal\\controleFinanceiro\\Profiles\\MovimentacaoProfile.cs",
               "RelativeToolTip": "Profiles\\MovimentacaoProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-27T05:01:28.019Z",
               "EditorCaption": ""
@@ -99,8 +99,7 @@
               "RelativeToolTip": "Profiles\\CategoriaProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-27T05:01:13.393Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-27T05:01:13.393Z"
             },
             {
               "$type": "Document",
@@ -112,8 +111,7 @@
               "RelativeToolTip": "Profiles\\ContaProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-27T05:01:01.881Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-27T05:01:01.881Z"
             },
             {
               "$type": "Document",
@@ -125,8 +123,7 @@
               "RelativeToolTip": "Profiles\\UsuarioProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-27T05:00:50.084Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-27T05:00:50.084Z"
             },
             {
               "$type": "Document",
@@ -138,8 +135,7 @@
               "RelativeToolTip": "Entities\\Movimentacao.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-27T05:00:19.529Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-27T05:00:19.529Z"
             },
             {
               "$type": "Document",
@@ -151,8 +147,7 @@
               "RelativeToolTip": "Entities\\Categoria.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-27T05:00:08.635Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-27T05:00:08.635Z"
             },
             {
               "$type": "Document",
@@ -164,8 +159,7 @@
               "RelativeToolTip": "Entities\\Conta.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-27T04:59:19.383Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-27T04:59:19.383Z"
             },
             {
               "$type": "Document",
@@ -177,8 +171,7 @@
               "RelativeToolTip": "Entities\\Usuario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-27T04:57:06.46Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-27T04:57:06.46Z"
             },
             {
               "$type": "Document",
@@ -190,12 +183,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-10-27T04:48:21.15Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "WhenOpened": "2026-10-27T04:48:21.15Z"
             },
             {
               "$type": "Document",
@@ -207,8 +195,7 @@
               "RelativeToolTip": "Controllers\\FinanceiroController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-16T02:30:38.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-16T02:30:38.756Z"
             },
             {
               "$type": "Document",
@@ -220,8 +207,7 @@
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-16T02:30:17.965Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-16T02:30:17.965Z"
             },
             {
               "$type": "Document",
@@ -282,6 +268,16 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-09-16T02:22:53.252Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }
