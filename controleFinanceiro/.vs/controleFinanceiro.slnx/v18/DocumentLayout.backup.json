@@ -3,20 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Nar4ZacianShine\\OneDrive\\Documents\\IF\\Gradua\u00E7\u00E3o\\5\u00BA Per\u00EDodo\\Programa\u00E7\u00E3o com Acesso a BD\\trabalho\\controleFinanceiroPessoal\\controleFinanceiro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{74DEAF12-05B2-DCA9-8999-13756786338D}|controleFinanceiro.csproj|c:\\users\\nar4zacianshine\\onedrive\\documents\\if\\gradua\u00E7\u00E3o\\5\u00BA per\u00EDodo\\programa\u00E7\u00E3o com acesso a bd\\trabalho\\controlefinanceiropessoal\\controlefinanceiro\\profiles\\movimentacaoprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74DEAF12-05B2-DCA9-8999-13756786338D}|controleFinanceiro.csproj|solutionrelative:profiles\\movimentacaoprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{74DEAF12-05B2-DCA9-8999-13756786338D}|controleFinanceiro.csproj|c:\\users\\nar4zacianshine\\onedrive\\documents\\if\\gradua\u00E7\u00E3o\\5\u00BA per\u00EDodo\\programa\u00E7\u00E3o com acesso a bd\\trabalho\\controlefinanceiropessoal\\controlefinanceiro\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74DEAF12-05B2-DCA9-8999-13756786338D}|controleFinanceiro.csproj|solutionrelative:dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74DEAF12-05B2-DCA9-8999-13756786338D}|controleFinanceiro.csproj|c:\\users\\nar4zacianshine\\onedrive\\documents\\if\\gradua\u00E7\u00E3o\\5\u00BA per\u00EDodo\\programa\u00E7\u00E3o com acesso a bd\\trabalho\\controlefinanceiropessoal\\controlefinanceiro\\dtos\\movimentacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74DEAF12-05B2-DCA9-8999-13756786338D}|controleFinanceiro.csproj|solutionrelative:dtos\\movimentacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74DEAF12-05B2-DCA9-8999-13756786338D}|controleFinanceiro.csproj|c:\\users\\nar4zacianshine\\onedrive\\documents\\if\\gradua\u00E7\u00E3o\\5\u00BA per\u00EDodo\\programa\u00E7\u00E3o com acesso a bd\\trabalho\\controlefinanceiropessoal\\controlefinanceiro\\dtos\\contadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74DEAF12-05B2-DCA9-8999-13756786338D}|controleFinanceiro.csproj|solutionrelative:dtos\\contadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74DEAF12-05B2-DCA9-8999-13756786338D}|controleFinanceiro.csproj|c:\\users\\nar4zacianshine\\onedrive\\documents\\if\\gradua\u00E7\u00E3o\\5\u00BA per\u00EDodo\\programa\u00E7\u00E3o com acesso a bd\\trabalho\\controlefinanceiropessoal\\controlefinanceiro\\dtos\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74DEAF12-05B2-DCA9-8999-13756786338D}|controleFinanceiro.csproj|solutionrelative:dtos\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74DEAF12-05B2-DCA9-8999-13756786338D}|controleFinanceiro.csproj|c:\\users\\nar4zacianshine\\onedrive\\documents\\if\\gradua\u00E7\u00E3o\\5\u00BA per\u00EDodo\\programa\u00E7\u00E3o com acesso a bd\\trabalho\\controlefinanceiropessoal\\controlefinanceiro\\dtos\\responses\\usuarioresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74DEAF12-05B2-DCA9-8999-13756786338D}|controleFinanceiro.csproj|solutionrelative:dtos\\responses\\usuarioresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74DEAF12-05B2-DCA9-8999-13756786338D}|controleFinanceiro.csproj|c:\\users\\nar4zacianshine\\onedrive\\documents\\if\\gradua\u00E7\u00E3o\\5\u00BA per\u00EDodo\\programa\u00E7\u00E3o com acesso a bd\\trabalho\\controlefinanceiropessoal\\controlefinanceiro\\dtos\\responses\\contaresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74DEAF12-05B2-DCA9-8999-13756786338D}|controleFinanceiro.csproj|solutionrelative:dtos\\responses\\contaresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74DEAF12-05B2-DCA9-8999-13756786338D}|controleFinanceiro.csproj|c:\\users\\nar4zacianshine\\onedrive\\documents\\if\\gradua\u00E7\u00E3o\\5\u00BA per\u00EDodo\\programa\u00E7\u00E3o com acesso a bd\\trabalho\\controlefinanceiropessoal\\controlefinanceiro\\dtos\\responses\\movimentacaoresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74DEAF12-05B2-DCA9-8999-13756786338D}|controleFinanceiro.csproj|solutionrelative:dtos\\responses\\movimentacaoresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74DEAF12-05B2-DCA9-8999-13756786338D}|controleFinanceiro.csproj|c:\\users\\nar4zacianshine\\onedrive\\documents\\if\\gradua\u00E7\u00E3o\\5\u00BA per\u00EDodo\\programa\u00E7\u00E3o com acesso a bd\\trabalho\\controlefinanceiropessoal\\controlefinanceiro\\dtos\\responses\\categoriaresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74DEAF12-05B2-DCA9-8999-13756786338D}|controleFinanceiro.csproj|solutionrelative:dtos\\responses\\categoriaresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{74DEAF12-05B2-DCA9-8999-13756786338D}|controleFinanceiro.csproj|c:\\users\\nar4zacianshine\\onedrive\\documents\\if\\gradua\u00E7\u00E3o\\5\u00BA per\u00EDodo\\programa\u00E7\u00E3o com acesso a bd\\trabalho\\controlefinanceiropessoal\\controlefinanceiro\\profiles\\categoriaprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74DEAF12-05B2-DCA9-8999-13756786338D}|controleFinanceiro.csproj|solutionrelative:profiles\\categoriaprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74DEAF12-05B2-DCA9-8999-13756786338D}|controleFinanceiro.csproj|c:\\users\\nar4zacianshine\\onedrive\\documents\\if\\gradua\u00E7\u00E3o\\5\u00BA per\u00EDodo\\programa\u00E7\u00E3o com acesso a bd\\trabalho\\controlefinanceiropessoal\\controlefinanceiro\\profiles\\contaprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74DEAF12-05B2-DCA9-8999-13756786338D}|controleFinanceiro.csproj|solutionrelative:profiles\\contaprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74DEAF12-05B2-DCA9-8999-13756786338D}|controleFinanceiro.csproj|c:\\users\\nar4zacianshine\\onedrive\\documents\\if\\gradua\u00E7\u00E3o\\5\u00BA per\u00EDodo\\programa\u00E7\u00E3o com acesso a bd\\trabalho\\controlefinanceiropessoal\\controlefinanceiro\\profiles\\usuarioprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74DEAF12-05B2-DCA9-8999-13756786338D}|controleFinanceiro.csproj|solutionrelative:profiles\\usuarioprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{74DEAF12-05B2-DCA9-8999-13756786338D}|controleFinanceiro.csproj|c:\\users\\nar4zacianshine\\onedrive\\documents\\if\\gradua\u00E7\u00E3o\\5\u00BA per\u00EDodo\\programa\u00E7\u00E3o com acesso a bd\\trabalho\\controlefinanceiropessoal\\controlefinanceiro\\entities\\movimentacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,6 +55,18 @@
       "RelativeMoniker": "D:0:0:{74DEAF12-05B2-DCA9-8999-13756786338D}|controleFinanceiro.csproj|solutionrelative:entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{74DEAF12-05B2-DCA9-8999-13756786338D}|controleFinanceiro.csproj|c:\\users\\nar4zacianshine\\onedrive\\documents\\if\\gradua\u00E7\u00E3o\\5\u00BA per\u00EDodo\\programa\u00E7\u00E3o com acesso a bd\\trabalho\\controlefinanceiropessoal\\controlefinanceiro\\profiles\\movimentacaoprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74DEAF12-05B2-DCA9-8999-13756786338D}|controleFinanceiro.csproj|solutionrelative:profiles\\movimentacaoprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74DEAF12-05B2-DCA9-8999-13756786338D}|controleFinanceiro.csproj|c:\\users\\nar4zacianshine\\onedrive\\documents\\if\\gradua\u00E7\u00E3o\\5\u00BA per\u00EDodo\\programa\u00E7\u00E3o com acesso a bd\\trabalho\\controlefinanceiropessoal\\controlefinanceiro\\profiles\\contaprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74DEAF12-05B2-DCA9-8999-13756786338D}|controleFinanceiro.csproj|solutionrelative:profiles\\contaprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74DEAF12-05B2-DCA9-8999-13756786338D}|controleFinanceiro.csproj|c:\\users\\nar4zacianshine\\onedrive\\documents\\if\\gradua\u00E7\u00E3o\\5\u00BA per\u00EDodo\\programa\u00E7\u00E3o com acesso a bd\\trabalho\\controlefinanceiropessoal\\controlefinanceiro\\profiles\\usuarioprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74DEAF12-05B2-DCA9-8999-13756786338D}|controleFinanceiro.csproj|solutionrelative:profiles\\usuarioprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{74DEAF12-05B2-DCA9-8999-13756786338D}|controleFinanceiro.csproj|c:\\users\\nar4zacianshine\\onedrive\\documents\\if\\gradua\u00E7\u00E3o\\5\u00BA per\u00EDodo\\programa\u00E7\u00E3o com acesso a bd\\trabalho\\controlefinanceiropessoal\\controlefinanceiro\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{74DEAF12-05B2-DCA9-8999-13756786338D}|controleFinanceiro.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -49,14 +81,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{74DEAF12-05B2-DCA9-8999-13756786338D}|controleFinanceiro.csproj|c:\\users\\nar4zacianshine\\onedrive\\documents\\if\\gradua\u00E7\u00E3o\\5\u00BA per\u00EDodo\\programa\u00E7\u00E3o com acesso a bd\\trabalho\\controlefinanceiropessoal\\controlefinanceiro\\services\\financeiroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74DEAF12-05B2-DCA9-8999-13756786338D}|controleFinanceiro.csproj|solutionrelative:services\\financeiroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74DEAF12-05B2-DCA9-8999-13756786338D}|controleFinanceiro.csproj|c:\\users\\nar4zacianshine\\onedrive\\documents\\if\\gradua\u00E7\u00E3o\\5\u00BA per\u00EDodo\\programa\u00E7\u00E3o com acesso a bd\\trabalho\\controlefinanceiropessoal\\controlefinanceiro\\dtos\\responses\\financeiroresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74DEAF12-05B2-DCA9-8999-13756786338D}|controleFinanceiro.csproj|solutionrelative:dtos\\responses\\financeiroresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74DEAF12-05B2-DCA9-8999-13756786338D}|controleFinanceiro.csproj|c:\\users\\nar4zacianshine\\onedrive\\documents\\if\\gradua\u00E7\u00E3o\\5\u00BA per\u00EDodo\\programa\u00E7\u00E3o com acesso a bd\\trabalho\\controlefinanceiropessoal\\controlefinanceiro\\dtos\\financeirodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74DEAF12-05B2-DCA9-8999-13756786338D}|controleFinanceiro.csproj|solutionrelative:dtos\\financeirodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{74DEAF12-05B2-DCA9-8999-13756786338D}|controleFinanceiro.csproj|c:\\users\\nar4zacianshine\\onedrive\\documents\\if\\gradua\u00E7\u00E3o\\5\u00BA per\u00EDodo\\programa\u00E7\u00E3o com acesso a bd\\trabalho\\controlefinanceiropessoal\\controlefinanceiro\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -74,24 +98,115 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MovimentacaoProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Nar4ZacianShine\\OneDrive\\Documents\\IF\\Gradua\u00E7\u00E3o\\5\u00BA Per\u00EDodo\\Programa\u00E7\u00E3o com Acesso a BD\\trabalho\\controleFinanceiroPessoal\\controleFinanceiro\\Profiles\\MovimentacaoProfile.cs",
-              "RelativeDocumentMoniker": "Profiles\\MovimentacaoProfile.cs",
-              "ToolTip": "C:\\Users\\Nar4ZacianShine\\OneDrive\\Documents\\IF\\Gradua\u00E7\u00E3o\\5\u00BA Per\u00EDodo\\Programa\u00E7\u00E3o com Acesso a BD\\trabalho\\controleFinanceiroPessoal\\controleFinanceiro\\Profiles\\MovimentacaoProfile.cs",
-              "RelativeToolTip": "Profiles\\MovimentacaoProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ContaDto.cs",
+              "DocumentMoniker": "C:\\Users\\Nar4ZacianShine\\OneDrive\\Documents\\IF\\Gradua\u00E7\u00E3o\\5\u00BA Per\u00EDodo\\Programa\u00E7\u00E3o com Acesso a BD\\trabalho\\controleFinanceiroPessoal\\controleFinanceiro\\Dtos\\ContaDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\ContaDto.cs",
+              "ToolTip": "C:\\Users\\Nar4ZacianShine\\OneDrive\\Documents\\IF\\Gradua\u00E7\u00E3o\\5\u00BA Per\u00EDodo\\Programa\u00E7\u00E3o com Acesso a BD\\trabalho\\controleFinanceiroPessoal\\controleFinanceiro\\Dtos\\ContaDto.cs",
+              "RelativeToolTip": "Dtos\\ContaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-27T05:01:28.019Z",
+              "WhenOpened": "2026-11-11T01:02:41.071Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "MovimentacaoDto.cs",
+              "DocumentMoniker": "C:\\Users\\Nar4ZacianShine\\OneDrive\\Documents\\IF\\Gradua\u00E7\u00E3o\\5\u00BA Per\u00EDodo\\Programa\u00E7\u00E3o com Acesso a BD\\trabalho\\controleFinanceiroPessoal\\controleFinanceiro\\Dtos\\MovimentacaoDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\MovimentacaoDto.cs",
+              "ToolTip": "C:\\Users\\Nar4ZacianShine\\OneDrive\\Documents\\IF\\Gradua\u00E7\u00E3o\\5\u00BA Per\u00EDodo\\Programa\u00E7\u00E3o com Acesso a BD\\trabalho\\controleFinanceiroPessoal\\controleFinanceiro\\Dtos\\MovimentacaoDto.cs",
+              "RelativeToolTip": "Dtos\\MovimentacaoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T01:02:28.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioDto.cs",
+              "DocumentMoniker": "C:\\Users\\Nar4ZacianShine\\OneDrive\\Documents\\IF\\Gradua\u00E7\u00E3o\\5\u00BA Per\u00EDodo\\Programa\u00E7\u00E3o com Acesso a BD\\trabalho\\controleFinanceiroPessoal\\controleFinanceiro\\Dtos\\UsuarioDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\UsuarioDto.cs",
+              "ToolTip": "C:\\Users\\Nar4ZacianShine\\OneDrive\\Documents\\IF\\Gradua\u00E7\u00E3o\\5\u00BA Per\u00EDodo\\Programa\u00E7\u00E3o com Acesso a BD\\trabalho\\controleFinanceiroPessoal\\controleFinanceiro\\Dtos\\UsuarioDto.cs",
+              "RelativeToolTip": "Dtos\\UsuarioDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T01:02:14.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoriaDto.cs",
+              "DocumentMoniker": "C:\\Users\\Nar4ZacianShine\\OneDrive\\Documents\\IF\\Gradua\u00E7\u00E3o\\5\u00BA Per\u00EDodo\\Programa\u00E7\u00E3o com Acesso a BD\\trabalho\\controleFinanceiroPessoal\\controleFinanceiro\\Dtos\\CategoriaDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\CategoriaDto.cs",
+              "ToolTip": "C:\\Users\\Nar4ZacianShine\\OneDrive\\Documents\\IF\\Gradua\u00E7\u00E3o\\5\u00BA Per\u00EDodo\\Programa\u00E7\u00E3o com Acesso a BD\\trabalho\\controleFinanceiroPessoal\\controleFinanceiro\\Dtos\\CategoriaDto.cs",
+              "RelativeToolTip": "Dtos\\CategoriaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T01:01:58.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Nar4ZacianShine\\OneDrive\\Documents\\IF\\Gradua\u00E7\u00E3o\\5\u00BA Per\u00EDodo\\Programa\u00E7\u00E3o com Acesso a BD\\trabalho\\controleFinanceiroPessoal\\controleFinanceiro\\Dtos\\Responses\\UsuarioResponseDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\Responses\\UsuarioResponseDto.cs",
+              "ToolTip": "C:\\Users\\Nar4ZacianShine\\OneDrive\\Documents\\IF\\Gradua\u00E7\u00E3o\\5\u00BA Per\u00EDodo\\Programa\u00E7\u00E3o com Acesso a BD\\trabalho\\controleFinanceiroPessoal\\controleFinanceiro\\Dtos\\Responses\\UsuarioResponseDto.cs",
+              "RelativeToolTip": "Dtos\\Responses\\UsuarioResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T01:03:23.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContaResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Nar4ZacianShine\\OneDrive\\Documents\\IF\\Gradua\u00E7\u00E3o\\5\u00BA Per\u00EDodo\\Programa\u00E7\u00E3o com Acesso a BD\\trabalho\\controleFinanceiroPessoal\\controleFinanceiro\\Dtos\\Responses\\ContaResponseDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\Responses\\ContaResponseDto.cs",
+              "ToolTip": "C:\\Users\\Nar4ZacianShine\\OneDrive\\Documents\\IF\\Gradua\u00E7\u00E3o\\5\u00BA Per\u00EDodo\\Programa\u00E7\u00E3o com Acesso a BD\\trabalho\\controleFinanceiroPessoal\\controleFinanceiro\\Dtos\\Responses\\ContaResponseDto.cs",
+              "RelativeToolTip": "Dtos\\Responses\\ContaResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T01:03:10.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MovimentacaoResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Nar4ZacianShine\\OneDrive\\Documents\\IF\\Gradua\u00E7\u00E3o\\5\u00BA Per\u00EDodo\\Programa\u00E7\u00E3o com Acesso a BD\\trabalho\\controleFinanceiroPessoal\\controleFinanceiro\\Dtos\\Responses\\MovimentacaoResponseDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\Responses\\MovimentacaoResponseDto.cs",
+              "ToolTip": "C:\\Users\\Nar4ZacianShine\\OneDrive\\Documents\\IF\\Gradua\u00E7\u00E3o\\5\u00BA Per\u00EDodo\\Programa\u00E7\u00E3o com Acesso a BD\\trabalho\\controleFinanceiroPessoal\\controleFinanceiro\\Dtos\\Responses\\MovimentacaoResponseDto.cs",
+              "RelativeToolTip": "Dtos\\Responses\\MovimentacaoResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T01:02:59.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoriaResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Nar4ZacianShine\\OneDrive\\Documents\\IF\\Gradua\u00E7\u00E3o\\5\u00BA Per\u00EDodo\\Programa\u00E7\u00E3o com Acesso a BD\\trabalho\\controleFinanceiroPessoal\\controleFinanceiro\\Dtos\\Responses\\CategoriaResponseDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\Responses\\CategoriaResponseDto.cs",
+              "ToolTip": "C:\\Users\\Nar4ZacianShine\\OneDrive\\Documents\\IF\\Gradua\u00E7\u00E3o\\5\u00BA Per\u00EDodo\\Programa\u00E7\u00E3o com Acesso a BD\\trabalho\\controleFinanceiroPessoal\\controleFinanceiro\\Dtos\\Responses\\CategoriaResponseDto.cs",
+              "RelativeToolTip": "Dtos\\Responses\\CategoriaResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T01:03:44.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "CategoriaProfile.cs",
               "DocumentMoniker": "C:\\Users\\Nar4ZacianShine\\OneDrive\\Documents\\IF\\Gradua\u00E7\u00E3o\\5\u00BA Per\u00EDodo\\Programa\u00E7\u00E3o com Acesso a BD\\trabalho\\controleFinanceiroPessoal\\controleFinanceiro\\Profiles\\CategoriaProfile.cs",
               "RelativeDocumentMoniker": "Profiles\\CategoriaProfile.cs",
@@ -104,7 +219,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
+              "Title": "Movimentacao.cs",
+              "DocumentMoniker": "C:\\Users\\Nar4ZacianShine\\OneDrive\\Documents\\IF\\Gradua\u00E7\u00E3o\\5\u00BA Per\u00EDodo\\Programa\u00E7\u00E3o com Acesso a BD\\trabalho\\controleFinanceiroPessoal\\controleFinanceiro\\Entities\\Movimentacao.cs",
+              "RelativeDocumentMoniker": "Entities\\Movimentacao.cs",
+              "ToolTip": "C:\\Users\\Nar4ZacianShine\\OneDrive\\Documents\\IF\\Gradua\u00E7\u00E3o\\5\u00BA Per\u00EDodo\\Programa\u00E7\u00E3o com Acesso a BD\\trabalho\\controleFinanceiroPessoal\\controleFinanceiro\\Entities\\Movimentacao.cs",
+              "RelativeToolTip": "Entities\\Movimentacao.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T05:00:19.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\Nar4ZacianShine\\OneDrive\\Documents\\IF\\Gradua\u00E7\u00E3o\\5\u00BA Per\u00EDodo\\Programa\u00E7\u00E3o com Acesso a BD\\trabalho\\controleFinanceiroPessoal\\controleFinanceiro\\Entities\\Categoria.cs",
+              "RelativeDocumentMoniker": "Entities\\Categoria.cs",
+              "ToolTip": "C:\\Users\\Nar4ZacianShine\\OneDrive\\Documents\\IF\\Gradua\u00E7\u00E3o\\5\u00BA Per\u00EDodo\\Programa\u00E7\u00E3o com Acesso a BD\\trabalho\\controleFinanceiroPessoal\\controleFinanceiro\\Entities\\Categoria.cs",
+              "RelativeToolTip": "Entities\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T05:00:08.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Conta.cs",
+              "DocumentMoniker": "C:\\Users\\Nar4ZacianShine\\OneDrive\\Documents\\IF\\Gradua\u00E7\u00E3o\\5\u00BA Per\u00EDodo\\Programa\u00E7\u00E3o com Acesso a BD\\trabalho\\controleFinanceiroPessoal\\controleFinanceiro\\Entities\\Conta.cs",
+              "RelativeDocumentMoniker": "Entities\\Conta.cs",
+              "ToolTip": "C:\\Users\\Nar4ZacianShine\\OneDrive\\Documents\\IF\\Gradua\u00E7\u00E3o\\5\u00BA Per\u00EDodo\\Programa\u00E7\u00E3o com Acesso a BD\\trabalho\\controleFinanceiroPessoal\\controleFinanceiro\\Entities\\Conta.cs",
+              "RelativeToolTip": "Entities\\Conta.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwBsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T04:59:19.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Nar4ZacianShine\\OneDrive\\Documents\\IF\\Gradua\u00E7\u00E3o\\5\u00BA Per\u00EDodo\\Programa\u00E7\u00E3o com Acesso a BD\\trabalho\\controleFinanceiroPessoal\\controleFinanceiro\\Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "Entities\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Nar4ZacianShine\\OneDrive\\Documents\\IF\\Gradua\u00E7\u00E3o\\5\u00BA Per\u00EDodo\\Programa\u00E7\u00E3o com Acesso a BD\\trabalho\\controleFinanceiroPessoal\\controleFinanceiro\\Entities\\Usuario.cs",
+              "RelativeToolTip": "Entities\\Usuario.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T04:57:06.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MovimentacaoProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Nar4ZacianShine\\OneDrive\\Documents\\IF\\Gradua\u00E7\u00E3o\\5\u00BA Per\u00EDodo\\Programa\u00E7\u00E3o com Acesso a BD\\trabalho\\controleFinanceiroPessoal\\controleFinanceiro\\Profiles\\MovimentacaoProfile.cs",
+              "RelativeDocumentMoniker": "Profiles\\MovimentacaoProfile.cs",
+              "ToolTip": "C:\\Users\\Nar4ZacianShine\\OneDrive\\Documents\\IF\\Gradua\u00E7\u00E3o\\5\u00BA Per\u00EDodo\\Programa\u00E7\u00E3o com Acesso a BD\\trabalho\\controleFinanceiroPessoal\\controleFinanceiro\\Profiles\\MovimentacaoProfile.cs",
+              "RelativeToolTip": "Profiles\\MovimentacaoProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T05:01:28.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "ContaProfile.cs",
               "DocumentMoniker": "C:\\Users\\Nar4ZacianShine\\OneDrive\\Documents\\IF\\Gradua\u00E7\u00E3o\\5\u00BA Per\u00EDodo\\Programa\u00E7\u00E3o com Acesso a BD\\trabalho\\controleFinanceiroPessoal\\controleFinanceiro\\Profiles\\ContaProfile.cs",
               "RelativeDocumentMoniker": "Profiles\\ContaProfile.cs",
@@ -112,12 +292,11 @@
               "RelativeToolTip": "Profiles\\ContaProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-27T05:01:01.881Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-27T05:01:01.881Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 15,
               "Title": "UsuarioProfile.cs",
               "DocumentMoniker": "C:\\Users\\Nar4ZacianShine\\OneDrive\\Documents\\IF\\Gradua\u00E7\u00E3o\\5\u00BA Per\u00EDodo\\Programa\u00E7\u00E3o com Acesso a BD\\trabalho\\controleFinanceiroPessoal\\controleFinanceiro\\Profiles\\UsuarioProfile.cs",
               "RelativeDocumentMoniker": "Profiles\\UsuarioProfile.cs",
@@ -125,64 +304,11 @@
               "RelativeToolTip": "Profiles\\UsuarioProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-27T05:00:50.084Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-27T05:00:50.084Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Movimentacao.cs",
-              "DocumentMoniker": "C:\\Users\\Nar4ZacianShine\\OneDrive\\Documents\\IF\\Gradua\u00E7\u00E3o\\5\u00BA Per\u00EDodo\\Programa\u00E7\u00E3o com Acesso a BD\\trabalho\\controleFinanceiroPessoal\\controleFinanceiro\\Entities\\Movimentacao.cs",
-              "RelativeDocumentMoniker": "Entities\\Movimentacao.cs",
-              "ToolTip": "C:\\Users\\Nar4ZacianShine\\OneDrive\\Documents\\IF\\Gradua\u00E7\u00E3o\\5\u00BA Per\u00EDodo\\Programa\u00E7\u00E3o com Acesso a BD\\trabalho\\controleFinanceiroPessoal\\controleFinanceiro\\Entities\\Movimentacao.cs",
-              "RelativeToolTip": "Entities\\Movimentacao.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-27T05:00:19.529Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Categoria.cs",
-              "DocumentMoniker": "C:\\Users\\Nar4ZacianShine\\OneDrive\\Documents\\IF\\Gradua\u00E7\u00E3o\\5\u00BA Per\u00EDodo\\Programa\u00E7\u00E3o com Acesso a BD\\trabalho\\controleFinanceiroPessoal\\controleFinanceiro\\Entities\\Categoria.cs",
-              "RelativeDocumentMoniker": "Entities\\Categoria.cs",
-              "ToolTip": "C:\\Users\\Nar4ZacianShine\\OneDrive\\Documents\\IF\\Gradua\u00E7\u00E3o\\5\u00BA Per\u00EDodo\\Programa\u00E7\u00E3o com Acesso a BD\\trabalho\\controleFinanceiroPessoal\\controleFinanceiro\\Entities\\Categoria.cs",
-              "RelativeToolTip": "Entities\\Categoria.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-27T05:00:08.635Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Conta.cs",
-              "DocumentMoniker": "C:\\Users\\Nar4ZacianShine\\OneDrive\\Documents\\IF\\Gradua\u00E7\u00E3o\\5\u00BA Per\u00EDodo\\Programa\u00E7\u00E3o com Acesso a BD\\trabalho\\controleFinanceiroPessoal\\controleFinanceiro\\Entities\\Conta.cs",
-              "RelativeDocumentMoniker": "Entities\\Conta.cs",
-              "ToolTip": "C:\\Users\\Nar4ZacianShine\\OneDrive\\Documents\\IF\\Gradua\u00E7\u00E3o\\5\u00BA Per\u00EDodo\\Programa\u00E7\u00E3o com Acesso a BD\\trabalho\\controleFinanceiroPessoal\\controleFinanceiro\\Entities\\Conta.cs",
-              "RelativeToolTip": "Entities\\Conta.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-27T04:59:19.383Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\Nar4ZacianShine\\OneDrive\\Documents\\IF\\Gradua\u00E7\u00E3o\\5\u00BA Per\u00EDodo\\Programa\u00E7\u00E3o com Acesso a BD\\trabalho\\controleFinanceiroPessoal\\controleFinanceiro\\Entities\\Usuario.cs",
-              "RelativeDocumentMoniker": "Entities\\Usuario.cs",
-              "ToolTip": "C:\\Users\\Nar4ZacianShine\\OneDrive\\Documents\\IF\\Gradua\u00E7\u00E3o\\5\u00BA Per\u00EDodo\\Programa\u00E7\u00E3o com Acesso a BD\\trabalho\\controleFinanceiroPessoal\\controleFinanceiro\\Entities\\Usuario.cs",
-              "RelativeToolTip": "Entities\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-27T04:57:06.46Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 16,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Nar4ZacianShine\\OneDrive\\Documents\\IF\\Gradua\u00E7\u00E3o\\5\u00BA Per\u00EDodo\\Programa\u00E7\u00E3o com Acesso a BD\\trabalho\\controleFinanceiroPessoal\\controleFinanceiro\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -190,8 +316,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-10-27T04:48:21.15Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-27T04:48:21.15Z"
             },
             {
               "$type": "Bookmark",
@@ -199,7 +324,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 18,
               "Title": "FinanceiroController.cs",
               "DocumentMoniker": "C:\\Users\\Nar4ZacianShine\\OneDrive\\Documents\\IF\\Gradua\u00E7\u00E3o\\5\u00BA Per\u00EDodo\\Programa\u00E7\u00E3o com Acesso a BD\\trabalho\\controleFinanceiroPessoal\\controleFinanceiro\\Controllers\\FinanceiroController.cs",
               "RelativeDocumentMoniker": "Controllers\\FinanceiroController.cs",
@@ -207,12 +332,11 @@
               "RelativeToolTip": "Controllers\\FinanceiroController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-16T02:30:38.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-16T02:30:38.756Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 17,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Nar4ZacianShine\\OneDrive\\Documents\\IF\\Gradua\u00E7\u00E3o\\5\u00BA Per\u00EDodo\\Programa\u00E7\u00E3o com Acesso a BD\\trabalho\\controleFinanceiroPessoal\\controleFinanceiro\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -220,12 +344,11 @@
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-16T02:30:17.965Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-16T02:30:17.965Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 19,
               "Title": "FinanceiroService.cs",
               "DocumentMoniker": "C:\\Users\\Nar4ZacianShine\\OneDrive\\Documents\\IF\\Gradua\u00E7\u00E3o\\5\u00BA Per\u00EDodo\\Programa\u00E7\u00E3o com Acesso a BD\\trabalho\\controleFinanceiroPessoal\\controleFinanceiro\\Services\\FinanceiroService.cs",
               "RelativeDocumentMoniker": "Services\\FinanceiroService.cs",
@@ -237,31 +360,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "FinanceiroResponseDto.cs",
-              "DocumentMoniker": "C:\\Users\\Nar4ZacianShine\\OneDrive\\Documents\\IF\\Gradua\u00E7\u00E3o\\5\u00BA Per\u00EDodo\\Programa\u00E7\u00E3o com Acesso a BD\\trabalho\\controleFinanceiroPessoal\\controleFinanceiro\\Dtos\\Responses\\FinanceiroResponseDto.cs",
-              "RelativeDocumentMoniker": "Dtos\\Responses\\FinanceiroResponseDto.cs",
-              "ToolTip": "C:\\Users\\Nar4ZacianShine\\OneDrive\\Documents\\IF\\Gradua\u00E7\u00E3o\\5\u00BA Per\u00EDodo\\Programa\u00E7\u00E3o com Acesso a BD\\trabalho\\controleFinanceiroPessoal\\controleFinanceiro\\Dtos\\Responses\\FinanceiroResponseDto.cs",
-              "RelativeToolTip": "Dtos\\Responses\\FinanceiroResponseDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-16T02:27:08.348Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "FinanceiroDto.cs",
-              "DocumentMoniker": "C:\\Users\\Nar4ZacianShine\\OneDrive\\Documents\\IF\\Gradua\u00E7\u00E3o\\5\u00BA Per\u00EDodo\\Programa\u00E7\u00E3o com Acesso a BD\\trabalho\\controleFinanceiroPessoal\\controleFinanceiro\\Dtos\\FinanceiroDto.cs",
-              "RelativeDocumentMoniker": "Dtos\\FinanceiroDto.cs",
-              "ToolTip": "C:\\Users\\Nar4ZacianShine\\OneDrive\\Documents\\IF\\Gradua\u00E7\u00E3o\\5\u00BA Per\u00EDodo\\Programa\u00E7\u00E3o com Acesso a BD\\trabalho\\controleFinanceiroPessoal\\controleFinanceiro\\Dtos\\FinanceiroDto.cs",
-              "RelativeToolTip": "Dtos\\FinanceiroDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-16T02:26:43.26Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Nar4ZacianShine\\OneDrive\\Documents\\IF\\Gradua\u00E7\u00E3o\\5\u00BA Per\u00EDodo\\Programa\u00E7\u00E3o com Acesso a BD\\trabalho\\controleFinanceiroPessoal\\controleFinanceiro\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
@@ -273,7 +372,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 21,
               "Title": "controleFinanceiro.csproj",
               "DocumentMoniker": "C:\\Users\\Nar4ZacianShine\\OneDrive\\Documents\\IF\\Gradua\u00E7\u00E3o\\5\u00BA Per\u00EDodo\\Programa\u00E7\u00E3o com Acesso a BD\\trabalho\\controleFinanceiroPessoal\\controleFinanceiro\\controleFinanceiro.csproj",
               "RelativeDocumentMoniker": "controleFinanceiro.csproj",
