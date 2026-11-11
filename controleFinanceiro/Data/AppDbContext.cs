@@ -1,4 +1,5 @@
-﻿namespace controleFinanceiro.Data
+﻿
+namespace controleFinanceiro.Data
 {
     public class AppDbContext
     {
