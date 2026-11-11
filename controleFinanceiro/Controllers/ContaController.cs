@@ -57,15 +57,6 @@ namespace controleFinanceiro.Controllers
                 : NotFound(new { Mensagem = $"Conta {id} não encontrada" });
         }
 
-        // GET: /contas/{id}/movimentacoes - Lista as movimentações de uma conta
-        [HttpGet("{id}/movimentacoes")]
-        public async Task<IActionResult> GetMovimentacoes(int id)
-        {
-            var movimentacoes = await service.FindMovimentacoes(id);
-
-            return movimentacoes is null
-                ? NotFound(new { Mensagem = $"Conta {id} não encontrada" })
-                : Ok(movimentacoes);
-        }
+        
     }
 }

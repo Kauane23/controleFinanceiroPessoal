@@ -58,15 +58,6 @@ namespace controleFinanceiro.Controllers
                 : NotFound(new { Mensagem = $"Usuário {id} não encontrado" });
         }
 
-        // GET: /usuarios/{id}/contas - Lista as contas de um usuário
-        [HttpGet("{id}/contas")]
-        public async Task<IActionResult> GetContas(int id)
-        {
-            var contas = await service.FindContas(id);
-
-            return contas is null
-                ? NotFound(new { Mensagem = $"Usuário {id} não encontrado" })
-                : Ok(contas);
-        }
+       
     }
 }

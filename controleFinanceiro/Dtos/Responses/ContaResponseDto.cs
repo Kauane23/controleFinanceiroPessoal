@@ -1,6 +1,4 @@
-﻿using System.ComponentModel.DataAnnotations.Schema;
-
-namespace controleFinanceiro.Dtos.Responses
+﻿namespace controleFinanceiro.Dtos.Responses
 {
     public class ContaResponseDto
     {
@@ -9,9 +7,6 @@ namespace controleFinanceiro.Dtos.Responses
         public string? NomeInstituicao { get; set; }
         public string Tipo { get; set; } = string.Empty;
         public float SaldoAtual { get; set; }
-
-        public UsuarioResponseDto Usuario { get; set; } = null!;
-
-        public ICollection<MovimentacaoResponseDto> Movimentacoes { get; set; } = [];
+        public int UsuarioId { get; set; }
     }
 }
