@@ -15,6 +15,6 @@ namespace controleFinanceiro.Data
         public DbSet<Usuario> Usuarios { get; set; }
         public DbSet<Conta> Contas { get; set; }
         public DbSet<Categoria> Categorias { get; set; }
-        public DbSet<Movimentacao> Movimentacao { get; set; } 
+        public DbSet<Movimentacao> Movimentacoes { get; set; } 
     }
 }
