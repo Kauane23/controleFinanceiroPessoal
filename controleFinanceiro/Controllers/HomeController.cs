@@ -6,24 +6,11 @@ namespace controleFinanceiro.Controllers
     [ApiController]
     public class HomeController : ControllerBase
     {
-        [HttpGet()]
+        // GET: / - Serve para conferir se a API está no ar
+        [HttpGet]
         public IActionResult Get()
         {
-            return Ok(new
-            {
-                status = "up",
-                api = "controleFinanceiro"
-            });
-        }
-
-        [HttpGet("down")]
-        public IActionResult Get2()
-        {
-            return Ok(new
-            {
-                status = "down",
-                api = "controleFinanceiro"
-            });
+            return Ok(new { status = "up", api = "controleFinanceiro" });
         }
     }
 }
