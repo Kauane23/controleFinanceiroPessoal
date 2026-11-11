@@ -1,3 +1,11 @@
+using controleFinanceiro.Controllers;
+using controleFinanceiro.Data;
+using controleFinanceiro.Profiles;
+using Microsoft.EntityFrameworkCore;
+using System.Text.Json.Serialization;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.IdentityModel.Tokens;
+using System.Text;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.

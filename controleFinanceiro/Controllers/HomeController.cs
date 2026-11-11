@@ -6,7 +6,7 @@ namespace controleFinanceiro.Controllers
     [ApiController]
     public class HomeController : ControllerBase
     {
-        [HttpGet]
+        [HttpGet()]
         public IActionResult Get()
         {
             return Ok(new
